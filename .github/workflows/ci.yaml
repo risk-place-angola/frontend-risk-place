@@ -26,4 +26,4 @@ jobs:
       - name: Build
         run: yarn build
       - name: Test coverage
-        run: yarn test:coverage
+        run: yarn test:cov
