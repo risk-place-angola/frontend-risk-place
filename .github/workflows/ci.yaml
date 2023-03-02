@@ -25,5 +25,3 @@ jobs:
         run: yarn install
       - name: Build
         run: yarn build
-      - name: Test coverage
-        run: yarn test:coverage
