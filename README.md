@@ -25,20 +25,23 @@ git clone https://github.com/risk-place-angola/frontend-risk-place.git
 npm install
 ```
 
-- Executar o projecto
-
-```bash
-npm start
-```
-
 Executa o aplicativo no modo de desenvolvimento.
 Abra http://localhost:3000 para visualizá-lo em seu navegador.
 
+```bash
+npm run dev
+```
 
 - Construir o projecto
 
 ```bash
 npm run build
+```
+
+- Executar o projecto após a construção
+
+```bash
+npm start
 ```
 
 ## Construído com
