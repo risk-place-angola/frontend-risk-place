@@ -51,7 +51,7 @@ npm start
 - [Docker](https://www.docker.com/) - Containerization
 - [Nginx](https://www.nginx.com/) - Web Server
 
-## Contribuição
+## 🤝 Contribuição
 > Antes de abrir uma issue ou pull request, verifique o documentos de contribuição do projeto.
 
 Por favor leia [CONTRIBUTING.md](https://github.com/risk-place-angola/frontend-risk-place/blob/main/CONTRIBUTING.md) para detalhes sobre o nosso código de conduta, e o processo para enviar solicitações pull para nós.
@@ -86,3 +86,7 @@ Esta secção foi transferida para aqui: [https://facebook.github.io/create-reac
 
 Esta secção foi transferida para aqui: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+
+ ## 🍕 Comunidade
+ 
+ Junte-se à conversa ao nosso https://discord.gg/s2Nk4xYV
